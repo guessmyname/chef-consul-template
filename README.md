@@ -16,6 +16,7 @@ Installs and configures [consul-template](https://github.com/hashicorp/consul-te
 - Debian 8.2, 7.9, 6.0.10
 - Centos 7.2, 6.7
 - Arch Linux
+- Windows
 
 ## Attributes
 
